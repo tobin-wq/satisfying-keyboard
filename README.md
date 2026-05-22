@@ -1,2 +1,2 @@
 # Satisfying Keyboard Switches
-[Kinetic labs](https://kineticlabs.com/) made some amazing switches so i made an app that sounds almost exactly like the ones they made. The one i used was the capybara linear switch.
+I made an app using Claude Desktop that is the lowest-budget way of testing switches for keyboards. The switches I used are from [Kinetic Labs](https://kineticlabs.com)
