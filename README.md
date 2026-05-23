@@ -1,2 +1,2 @@
 # Satisfying Keyboard Switches
-I made an app using Claude Desktop that is the lowest-budget way of testing switches for keyboards. The switches I used are from [Kinetic Labs](https://kineticlabs.com), [Wuque Studio](https://shop.wuquestudio.com/), and [Akko](https://en.akkogear.com/).
+I made the lowest-budget way of testing switches for keyboards. The switches I used are from [Kinetic Labs](https://kineticlabs.com), [Wuque Studio](https://shop.wuquestudio.com/), and [Akko](https://en.akkogear.com/).
